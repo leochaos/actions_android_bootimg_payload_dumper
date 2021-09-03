@@ -18,3 +18,4 @@
 查看进度，在Actions菜单，get_bootimg_from_payload→make→Upload the bootimg to WeTransfer中找到Download link:xxx就是下载地址。
 
 本项目依赖来自：https://github.com/vm03/payload_dumper 感谢。
+123
